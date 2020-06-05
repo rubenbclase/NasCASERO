@@ -1,0 +1,3 @@
+MOTD este fichero ubicado en /etc/motd
+
+titulo fichero ubicado en /etc/ssh/titulo

@@ -1,0 +1,4 @@
+crea un directorio en la raiz server llamado 'scripts'
+
+
+dentro del directorio 'scripts' añade ficheros scripts bash scriptOpenVPNbot.sh y scriptsshdbot.sh

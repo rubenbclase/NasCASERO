@@ -1,0 +1,9 @@
+Añadir lo siguiente al final del fichero /etc/pam.d/sshd
+
+---------------------------------------------------------------------
+
+# BOT TELEGRAM
+# Autor: @nuria_imeq (twitter)
+# Reedicion script: Ruben Blanco
+# Fecha 30 abril 2020
+session    optional     pam_exec.so /scripts/scriptsshdbot.sh
